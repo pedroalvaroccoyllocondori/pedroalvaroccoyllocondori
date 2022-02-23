@@ -1,7 +1,24 @@
-### Hi there 👋
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pedroalvaroccoyllocondori/count.svg" />
+</p>
+
+## About me
+
+I'm Pedro Alvaro. A Software Developer. An UI Desinger 
+
+I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
 
-**pedroalvaroccoyllocondori/pedroalvaroccoyllocondori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things I am passionate about
+
+- Android :robot:
+- Open source :octocat:
+
+
+<!--
+**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
