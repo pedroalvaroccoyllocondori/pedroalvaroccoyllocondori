@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Alvaro</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-- 🔭 I’m currently working on **Hospital Regional de Ica**
+- 🔭 I’m currently programing
 
 - 👯 I’m looking to collaborate on **web desing**
 
