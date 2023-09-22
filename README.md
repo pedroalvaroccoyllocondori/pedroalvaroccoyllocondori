@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pedro Alvaro</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h3 align="center">A passionate frontend and backend developer from Peru</h3>
 
 - 🔭 I’m currently programing
 
